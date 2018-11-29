@@ -1,1 +1,1 @@
-Hello, World Man c'est le deploy
+Hello, World Man c'est le deploiement
